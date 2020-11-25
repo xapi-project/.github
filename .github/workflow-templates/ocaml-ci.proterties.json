@@ -1,0 +1,11 @@
+{
+    "name": "OCaml CI Workflow",
+    "description": "Template to add CI for ocaml and opam-based repositories.",
+    "iconName": "ocaml",
+    "categories": [
+        "OCaml"
+    ],
+    "filePatterns": [
+        ".*\\.opam$",
+    ]
+}
