@@ -6,6 +6,6 @@
         "OCaml"
     ],
     "filePatterns": [
-        ".*\\.opam$",
+        ".*\\.opam$"
     ]
 }
